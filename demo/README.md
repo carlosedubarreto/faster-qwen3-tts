@@ -28,6 +28,12 @@ python server.py --model Qwen/Qwen3-TTS-12Hz-0.6B-Base
 # open http://localhost:7860
 ```
 
+## Run locally for longer texts (Also have the Portuguese language option)
+```bash
+python server_long.py --model Qwen/Qwen3-TTS-12Hz-0.6B-Base
+# open http://localhost:7860
+```
+
 ## Run with Docker
 
 ```bash
